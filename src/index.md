@@ -2,121 +2,94 @@
 # Language (Optional)
 lang: en
 # Site Keywords & Description
-keywords: Resume,Hexo,Resume Theme
-description: This is a cool resume theme for hexo.
+keywords: Java,Spring, Spring boot
+description: 热爱生活，喜欢折腾.
 # Resume Title
-resume_title: Jon Snow's Resume
+resume_title: Java-杨超-简历
 # Job Applicant Name
-name: Jon Snow
-avatar: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
+name: 杨超
+avatar: https://file.zfjyc.cn/file/static/logo_repeat_1705479110855__839077.png
 # Contact
 contact:
   # URL
-  - icon: fas fa-globe-europe
-    text: https://resume.js.org
-    url: https://resume.js.org
+ # - icon: fas fa-globe-europe
+ #   text: https://resume.js.org
+ #   url: https://resume.js.org
   # Email
   - icon: fas fa-envelope
-    text: your email
+    text: yangchaoking4228@163.com
     url:
   # Phone Number
   - icon: fas fa-phone-alt
-    text: 1xxxxxxxxxx
-    url: tel:10086
+    text: 13023088309
+    url: tel:13023088309
 # PDF Download Link
 download:
-  title: Download
+  title: 下载简历
   icon: fas fa-download fa-fw
-  url: https://github.com/xaoxuu/resume-docs
+  url: https://file.zfjyc.cn/file/blog/Java-杨超简历 .pdf
 ---
 
-{% raw %}
-<center>
-<a href='/'>English</a> | <a href='/zh-cn/'>简体中文</a>
-</center>
-{% endraw %}
+
+## <i class="fas fa-user-astronaut"></i> 关于我
+
+|                  |           |
+| :--------------- | --------- |
+| 姓名：杨超       | 性别： 男 |
+| 岗位：Java工程师 | 年龄：30  |
+| 工作经验：6年    |           |
 
 
-## <i class="fas fa-flag"></i> Getting Started
+## <i class="fas fa-user-graduate"></i> 教育经历
 
-Please directly download the source code of this site and refer to the source code for rewriting.
-
-- Site Source code: https://github.com/xaoxuu/resume-docs
-- Theme source code: https://github.com/xaoxuu/hexo-theme-resume
+**安徽文达信息工程学院-软件技术专业**
 
 
-## <i class="fas fa-user-graduate"></i> Education
-
-**XX University X College X Course X Major X Graduation**
+## <i class="fas fa-briefcase"></i> 工作经验
 
 
-## <i class="fas fa-user-tie"></i> Work Experience
+#### 2022年06月~2024年01月 安徽朗坤物联网有限公司 
 
+#### 2018年08月~ 2022年04月 安徽云南信息科技有限公司
 
-#### 2000 ~ Present: Company XX
+#### 2016年11月 ~ 2018年08月 安徽锐悦信息技术有限公司 
 
-- Mainly responsible for XXX
-
-#### 1900 ~ 2000: Company XX
-
-- Mainly responsible for XXX
-
-#### 1800 ~ 1900: company XX
-
-- Mainly responsible for XXX
-
-
-
-## <i class="fas fa-award"></i> Featured Projects
-
+## <i class="fas fa-project-diagram"></i> 项目经验
 
 {% raw %}
 <btns rounded>
-<a href='https://apps.apple.com/cn/app/heart-mate-pro-hrm-utility/id1463348922?ls=1'>
-  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/heartmate/icon.png'>
-  心率管家
-</a>
+
 <a href='https://apps.apple.com/cn/app/c%E5%85%BB%E8%80%81/id1458315594'>
   <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/het-cyanglao/icon.png'>
   C养老
-</a>
-<a href='https://apps.apple.com/cn/app/c-life%E5%85%BB%E8%80%81/id1393937890'>
-  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/het-clife/icon.png'>
-  C-Life养老
-</a>
-<a href='https://apps.apple.com/cn/app/linksmart/id1109303355'>
-  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/ht-linksmart/icon.png'>
-  LinkSmart
-</a>
-<a href='https://apps.apple.com/cn/app/hitfit/id1207738581'>
-  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/ht-hitfit/icon.png'>
-  HitFit
-</a>
-<a href='https://apps.apple.com/cn/app/%E8%85%95%E8%83%BD%E5%8A%A9%E6%89%8B/id1138242219'>
-  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/ht-fiyta/icon.png'>
-  飞亚达腕能助手
 </a>
 </btns><br>
 {% endraw %}
 
 
-### Project A
+### 霍山县农村产业融合发展示范园（三农云数据中心项目）
 
-#### 2000/01 ~ 2019/01: Developed by XX company, team project, maintenance so far
+#### 2022/11 ~ 2023/10: Developed by XX company, team project, maintenance so far
 
 啦啦啦
 
-### Project B
+### 朗坤 SSO 认证平台
 
 #### 1900/01 ~ 2000/01: Developed by XX company
 
 啦啦啦
 
-### Project C
+### 金利达药品交易网(移动端接口)
 
 #### 1800/01 ~ 1900/01: Developed by XX company
 
 啦啦啦
+
+### 智来城
+
+
+
+### 马鞍山钢铁厂电费计费系统
 
 ## <i class="fab fa-github"></i> Open Source Contributions
 
