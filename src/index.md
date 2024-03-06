@@ -35,7 +35,7 @@ download:
 |                  |           |
 | :--------------- | --------- |
 | 姓名：杨超       | 性别： 男 |
-| 岗位：Java工程师 | 年龄：30  |
+| 岗位：Java工程师 | 年龄：29  |
 | 工作经验：6年    |           |
 
 
@@ -101,7 +101,9 @@ download:
 
 **项目介绍**：三农云数据中心项目包含了三农云大数据中心，霍山农村产业融合发展示范园，特色农产品深加工产业园，农旅融合集中区等四大模块，项目总金额大概9000多万。其中数据中心机房和软件平台是霍山三农云数据中心项目一部分，内部包括数据中心和软件 平台两大部分，其中数据中心建设内容包括数据中心机房、云管理平台、数字中心安全设备、 数通设备、机房基础设施建设；软件平台包括产业融合标准数据库、霍山石斛全产业链服务平台、智慧园区管理平台、数字乡村管理平台、党建管理平台等内容.
 
-**涉及技术**： SpringCloud,Eureka,SpringBoot,MyBatis/Plus/Join,Vue,MySQL,Redis,FastDFS,MQTT,IoT设备接入与控制,xxljob,docker等等.
+**涉及技术：** SpringCloud,SpringBoot,MyBatis/Plus/Join,Vue,MySQL,Redis,FastDFS,MQTT,
+
+IoT设备接入与控制,xxljob,docker等等.
 
 - [霍山全产业链综合服务平台](https://huoshan.longcom.com:1443/industry-chain-manage/)：负责该平台石斛质量安全追溯系统、石斛种植流程记录管理与跟踪功能的设计与实现.
 
@@ -125,32 +127,72 @@ download:
 
 <img src='https://cdn.zfjyc.cn/resume/202403052013676.png'>
 
-
-
 </fancybox>
 
 - [三农云门户](https://huoshan.longcom.com:1443/portal/)：门户后端接口开发，包含病虫害知识库、溯源查询、基层党建信息等功能设计与实现.
 - [村务管理系统](https://huoshan.longcom.com:1443/villageGovernance/)：负责乡村信息（户籍人口、自然资源、党建、卫生机构、企业等等）录入功能设计与实现.
 - [产业主体管理系统](https://huoshan.longcom.com:1443/industry-manage/#/index)：负责后端企业管理、专家审批、认证审批等业务后端接口设计与实现.
-- [霍山石斛地理标识认证系统](https://huoshan.longcom.com:1443/certification/)：负责整个系统的设计实现和对接到霍山农业农村局本身的系统.
+- <fancybox>
+
+  
+
+  </fancybox>
+- [霍山石斛地理标识认证系统](https://huoshan.longcom.com:1443/certification/)：负责整个系统的设计实现和对接到霍山农业农村局自有系统.
+
+<fancybox>
+
+<img src="https://cdn.zfjyc.cn/resume/202403061240475.png"/>
+
+<img src="https://cdn.zfjyc.cn/resume/202403061240443.png"/>
+
+<img src="https://cdn.zfjyc.cn/resume/202403061240066.png"/>
+
+<img src="https://cdn.zfjyc.cn/resume/202403061240393.png"/>
+
+
+
+</fancybox>
+
 - **朗坤物联网中控平台**：基于**JetLinks 物联网基础平台**搭建，主要负责开发物联网设备协议包.
+
+<fancybox>
+
+<img src="https://cdn.zfjyc.cn/resume/202403061245560.png"/>
+
+<img src="https://cdn.zfjyc.cn/resume/202403061246115.png"/>
+
+<img src="https://cdn.zfjyc.cn/resume/202403061246934.png"/>
+
+</fancybox>
+
 - **霍农云**：基于霍山全产业链综合服务平台的小程序版本.
+
+<fancybox>
+
+<img src="https://cdn.zfjyc.cn/resume/202403061225050.jpg"/>
+
+<img src="https://cdn.zfjyc.cn/resume/202403061226677.jpg"/>
+
+<img src="https://cdn.zfjyc.cn/resume/202403061226943.jpg"/>
+
+</fancybox>
+
 - 其他若干子系统.
 
 
 
 
-### 朗坤 SSO 认证平台
+### 统一认证平台
 
 #### 2022/07 ~ 2022/08
 
-**项目介绍**：朗坤SSO认证平台主要面向内部项目，实现了单点登录、角色管理、部门管理、用户管理、权限管理、与钉钉同步信息等功能。实现功能聚合，统一管理，节省新项目开发时间的目标。
+**项目介绍**：统一认证平台主要面向内部项目，实现了单点登录、角色管理、部门管理、用户管理、权限管理、与钉钉同步信息等功能。实现功能聚合，统一管理，节省新项目开发时间的目标。
 
 **涉及技术**：Spring boot、MyBatis、MyBatis-Plus、SaToken、React、MySQL、Redis、FastDFS等
 
 <fancybox>
 
-<img src="https://cdn.zfjyc.cn/resume/202403052013466.png"/>
+<img src="https://cdn.zfjyc.cn/resume/202403061220955.png"/>
 
 </fancybox>
 
