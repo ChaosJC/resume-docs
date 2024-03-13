@@ -22,11 +22,15 @@ contact:
   - icon: fas fa-phone-alt
     text: 13023088309
     url: tel:13023088309
+  # 微信
+  - icon: fab fa-weixin
+    text: king825826
+    url: https://cdn.zfjyc.cn/resume/202403140017397.jpg
 # PDF Download Link
 download:
   title: 下载简历
   icon: fas fa-download fa-fw
-  url: https://file.zfjyc.cn/file/blog/Java-杨超简历 .pdf
+  url: https://cdn.zfjyc.cn/resume/202403061651075.pdf
 ---
 
 
@@ -226,4 +230,7 @@ IoT设备接入与控制,xxljob,docker等等.
 目前状态为：离职，随时到岗。
 
 <i class="fas fa-envelope fa-fw"></i> yangchaoking4228@163.com
+
 <i class="fas fa-phone-alt fa-fw"></i> 13023088309
+
+<i class="fab fa-weixin"></i> king825826

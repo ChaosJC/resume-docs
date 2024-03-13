@@ -3,9 +3,9 @@
 # Site
 language: zh-CN
 
-shortcut_icon: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
-favicon: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
-avatar: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
+shortcut_icon: https://cdn.zfjyc.cn/resume/logo.png
+favicon: https://cdn.zfjyc.cn/resume/logo.png
+avatar: https://cdn.zfjyc.cn/resume/logo.png
 
 # 主题
 theme: resume
@@ -13,7 +13,7 @@ theme_config:
   robots: index,follow
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://resume.js.org
+url: https://resume.zfjyc.cn/
 # url: http://localhost:4000
 root: /
 permalink: posts/:title/
